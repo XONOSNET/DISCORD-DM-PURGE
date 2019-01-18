@@ -14,7 +14,7 @@ you can open dev tools in the app, you cannot easily obtain the token id which i
 <p><strong>Step  3</strong>.) Navigate to the DM you wish to clear out.</p>
 <p><strong>Step  4</strong>.) Go to Discord Settings > Appearance > Advanced > Turn on <strong>Developer Mode</strong></p>
 <p><strong>Step  5</strong>.) Go to the last message you sent where you want the deletion to start, hover over it, open the context menu</p>
-<p>                  by clicking the 3-dotted line icon and click "Copy ID".</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by clicking the 3-dotted line icon and click "Copy ID".</p>
 <p><strong>Step  6</strong>.) In the script below, paste in the message ID in between the single quotes of the `var before = '<here>';`</p>
 <p><strong>Step  7</strong>.) Open Dev Tools
                   - Chrome Users Press F12
