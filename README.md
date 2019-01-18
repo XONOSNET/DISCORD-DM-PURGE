@@ -33,9 +33,9 @@ you can open dev tools in the app, you cannot easily obtain the token id which i
 <p><strong>Step 11</strong>.) Your script is now ready to be run. Copy and paste the entire script into the console of your browser's dev tools.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both Chrome & Firefox have a Console tab. Simply paste it into the console area and hit enter. You will begin to</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;see your messages remove from the chat history starting from the message ID you entered.</p>
-		  <hr></hr>
-		  <p><u>Firefox</u></p>
-		  <img src="https://cdn.discordapp.com/attachments/479347425316962314/535864075440095242/unknown.png"/>
+<hr></hr>
+<p><u>Firefox</u></p>
+<p><img src="https://cdn.discordapp.com/attachments/479347425316962314/535864075440095242/unknown.png"/></p>
 
-		  <p><u>Chrome</u></p>
-		  <img src="https://media.discordapp.net/attachments/479347425316962314/535864423986757647/unknown.png"/>
+<p><u>Chrome</u></p>
+<p><img src="https://media.discordapp.net/attachments/479347425316962314/535864423986757647/unknown.png"/></p>
