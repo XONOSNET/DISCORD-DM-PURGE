@@ -17,8 +17,8 @@ you can open dev tools in the app, you cannot easily obtain the token id which i
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;by clicking the 3-dotted line icon and click "Copy ID".</p>
 <p><strong>Step  6</strong>.) In the script below, paste in the message ID in between the single quotes of the `var before = '<here>';`</p>
 <p><strong>Step  7</strong>.) Open Dev Tools</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Chrome Users Press F12</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Firefox Users Press CTRL+SHIFT+I</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Chrome Users Press <strong>F12</strong></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Firefox Users Press <strong>CTRL</strong>+<strong>SHIFT</strong>+<strong>I</strong></p>
 <p><strong>Step  8</strong>.) Navigate to local storage in the dev tools.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Chrome Users: Applications Tab -> Local Storage -> https://discordapp.com</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Firefox Users: Storage Tab -> Local Storage -> https://discordapp.com</p>
